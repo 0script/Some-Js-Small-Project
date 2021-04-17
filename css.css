@@ -1,0 +1,40 @@
+body{
+    font-family: monospace;
+    background-color: darkmagenta;
+}
+
+main{
+    margin: 5%;
+}
+
+h4{
+    text-align: center;
+    font-size: 6em;
+}
+
+div#counter{
+    text-align: center;
+    font-size: 4em;
+}
+
+.hours , .min{
+    font-size: 3em;
+}
+
+.btns{
+    text-align: center;
+}
+
+button{
+    border: solid 2px black;
+    border-radius: 5px;
+    background-color: transparent;
+    margin: 5%;
+    width: 20%;
+    height: 14%;
+    font-size: 1.2em;
+}
+
+button:hover{
+    background-color: chartreuse;
+}
